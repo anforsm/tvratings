@@ -1,5 +1,5 @@
-# TV Guesser
-TV Guesser is a web app that shows the ratings of TV shows in a more digestible format. The data is collected from IMDb.
+# TV Ratings
+TV Ratings is a web app that shows the ratings of TV shows in a more digestible format. The data is collected from IMDb.
 
 Deployed at [tvratings.anforsm.com](https://tvratings.anforsm.com).
 
